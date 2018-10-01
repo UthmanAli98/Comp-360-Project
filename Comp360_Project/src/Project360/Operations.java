@@ -161,7 +161,7 @@ public class Operations {
 		return 1;
 	}
 
-	// add token and lexeme to array list
+	//Add token and lexeme to array list
 	void isToken(String p) {
 		int n = 0;
 		// switch statement that finds lexemes and tokens and add them to an arrayList
